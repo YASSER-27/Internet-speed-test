@@ -23,7 +23,7 @@
 > The application is bundled using PyInstaller with specific windowless configurations to prevent console popups and ensure high performance on Windows systems. The current build includes a critical fix for standard stream redirection, preventing crashes in windowless (noconsole) mode.
 
 ## Video 
-
+![speed_img1](assets/output.gif)
 
 ---
 
